@@ -94,7 +94,7 @@ DATABASES = {
         'HOST': '127.0.0.1',
         'NAME': 'blog',
         'USER': 'blog',
-        'PASSWORD': '1234',
+        'PASSWORD': '****',
     }
 }
 # Password validation
@@ -140,8 +140,8 @@ STATIC_URL = '/static/'
 # sending email  by smtp google
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'sabrinamarya30@gmail.com'
-EMAIL_HOST_PASSWORD = 'Moussaab@2007'
+EMAIL_HOST_USER = 'user_mail@gmail.com'
+EMAIL_HOST_PASSWORD = 'your_password'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 # Must generate specific password for your app in gmail settings
