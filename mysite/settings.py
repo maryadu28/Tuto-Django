@@ -94,7 +94,7 @@ DATABASES = {
         'HOST': '127.0.0.1',
         'NAME': 'blog',
         'USER': 'blog',
-        'PASSWORD': '****',
+        'PASSWORD': '1234',
     }
 }
 # Password validation
